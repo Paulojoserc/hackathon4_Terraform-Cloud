@@ -14,10 +14,7 @@ Este repositório todos os passos que foram utilizados para integração dos ter
     
 - Prints mostrando a execução do EC2 na AWS.
   ![](EC2_AWS.png)
-  
-- Print UI do terraform igual do repositorio do github.
-  ![](UIdoTerraform.png)
- 
-- Print commit 0e81110.
+
+- Print do check.
   ![](check.png)
  
